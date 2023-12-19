@@ -14,7 +14,7 @@ Additionally, the team is to prepare and provide a python module that contains c
 ## PROJECT SUMMARY
 | Code      | Name        |   Deployed App |
 |-----------|-------------|:------|
-|PP         | GALA GROCERIES SALES ANALYSIS  | [STREAMLIT APP]()|
+|PP 2       | GALA GROCERIES SALES ANALYSIS  | [STREAMLIT APP]()|
 
 
 
