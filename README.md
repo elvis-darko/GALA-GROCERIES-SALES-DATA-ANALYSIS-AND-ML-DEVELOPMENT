@@ -44,7 +44,7 @@ Use these recommended steps to set up your local machine for this project:
 
 1. **Clone the repo :** To clone this repo, copy the url and paste it in your GitHub desktop or code editor on your local machine.
         
-        https://github.com/elvis-darko/Team_Zurich_Capstone_Project.git
+        https://github.com/elvis-darko/GALA-GROCERIES-SALES-DATA-ANALYSIS-AND-ML-DEVELOPMENT.git
 
 1. **Create the Python's virtual environment :** <br />This will isolate the required libraries of the project to avoid conflicts.<br />Choose any of the line of code that will work on your local machine.
 
