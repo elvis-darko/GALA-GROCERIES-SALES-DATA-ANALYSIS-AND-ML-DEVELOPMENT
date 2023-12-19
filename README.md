@@ -1,7 +1,14 @@
 # GALA GROCERIES SALES DATA ANALYSIS AND ML DEVELOPMENT
 
 ## PROJECT DESCRIPTION
- This project is a Data Science job simulation with Cognizant. Cognizant is a n information technology and consulting multnination company that helps companies modernize technology, reimagine processes and transform experiences so they stay ahead in a fast-changing world.
+As a Data Scientist at Cognizant, I have been tasked to lead a team and analyse the multiple sales data of a client, Gala Groceries Limited. Gala Groceries is a new chain of grocery stores that have experienced magnficient growth within the last five (5) years in the United States.Their largest competitor is Wholefoods. 
+<br />
+They pride themselves on providing the best quality, fresh produce from locally sourced suppliers. However, this comes with many challenges to consistently deliver on this objective year-round.
+<br />
+Gala Groceries approached Cognizant to help them with a supply chain issue. Groceries are highly perishable items. If you overstock, you are wasting money on excessive storage and waste, but if you understock, then you risk losing customers. They want to know how to better stock the items that they sell. 
+<br />
+The Data Engineering team at Cognizant has extracted sample sales data across one week. My team has been tasked to provide recommendations as to what else is needed to fulfill the business requirement of Gala Groceries using this data.
+Additionally, the team is to prepare and provide a python module that contains codes that perform machine learning modeling.
 
 
 ## PROJECT SUMMARY
@@ -29,6 +36,7 @@
 
 **TASK 4 : MACHINE LEARNING PRODUCTION**
 - Prepare a Python module that contains code to train a model and output the performance metrics for the Machine Learning engineering team.
+- Additionally,develop an application using either Gradio, Streamlit or FastAPI to deploy and test the models.
 
 
 ## SCREESHOTS OF DEPLOYED APP
